@@ -1,5 +1,5 @@
 ## JavaScript Eval() Method Calculator with tailwindCSS
-A functional calculator built with TailwindCSS/Flowbite and JavaScript eval() method.
+A functional calculator built with TailwindCSS/Flowbite and Math.js eval() method.
 
 Test it here : https://calculator-tailwindcss.netlify.app
 
