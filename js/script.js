@@ -30,9 +30,9 @@ function calculate() {
         // Get the current expression in the display
         let expression = document.getElementById('display').value;
 
-        // Evaluate the expression using JavaScript eval function
-        let result = eval(expression);
-
+        // Evaluate the expression using Math.js eval function
+       let result = math.evaluate(expression) 
+        
         // Update the display with the result
         document.getElementById('display').value = result;
     }
